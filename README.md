@@ -1,0 +1,1 @@
+# magalu_cloud_module
